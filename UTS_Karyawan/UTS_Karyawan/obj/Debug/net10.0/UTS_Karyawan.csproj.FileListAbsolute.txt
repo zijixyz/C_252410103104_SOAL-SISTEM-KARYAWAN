@@ -1,0 +1,14 @@
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\bin\Debug\net10.0\UTS_Karyawan.exe
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\bin\Debug\net10.0\UTS_Karyawan.deps.json
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\bin\Debug\net10.0\UTS_Karyawan.runtimeconfig.json
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\bin\Debug\net10.0\UTS_Karyawan.dll
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\bin\Debug\net10.0\UTS_Karyawan.pdb
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\obj\Debug\net10.0\UTS_Karyawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\obj\Debug\net10.0\UTS_Karyawan.AssemblyInfoInputs.cache
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\obj\Debug\net10.0\UTS_Karyawan.AssemblyInfo.cs
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\obj\Debug\net10.0\UTS_Karyawan.csproj.CoreCompileInputs.cache
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\obj\Debug\net10.0\UTS_Karyawan.dll
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\obj\Debug\net10.0\refint\UTS_Karyawan.dll
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\obj\Debug\net10.0\UTS_Karyawan.pdb
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\obj\Debug\net10.0\UTS_Karyawan.genruntimeconfig.cache
+C:\Users\AJI PANGESTU\Documents\Coding\c#\UTS_Karyawan\UTS_Karyawan\obj\Debug\net10.0\ref\UTS_Karyawan.dll
